@@ -11,5 +11,6 @@ Perguntei quais os desafios enfrenteados pelas mulheres.
 ![image](https://github.com/user-attachments/assets/89a680c7-bae9-4938-bd4c-ca2ff1c6c89f)
 
 Pedi para criar um comando básico de tarefas com JavaScript. 
+
 ![image](https://github.com/user-attachments/assets/b079ce5e-fffc-4545-a0b3-003f768dd6e3)
 
