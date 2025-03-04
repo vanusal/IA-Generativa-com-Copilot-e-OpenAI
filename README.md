@@ -7,7 +7,7 @@ Experimentos:
 Pedi para o Copilot criar imagens de mulheres na área de tecnologia.
 ![image](https://github.com/user-attachments/assets/7b633b59-be15-4e63-a037-07bd37c64d16) 
 
-Perguntei quais os desafios enfrenteados pelas mulheres. 
+Perguntei quais os desafios enfrentados pelas mulheres. 
 ![image](https://github.com/user-attachments/assets/89a680c7-bae9-4938-bd4c-ca2ff1c6c89f)
 
 Pedi para criar um comando básico de tarefas com JavaScript. 
